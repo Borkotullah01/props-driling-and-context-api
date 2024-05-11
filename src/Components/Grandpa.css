@@ -1,0 +1,21 @@
+.grandpa div{
+    border: 2px solid dodgerblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 16px;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+.text-center{
+    text-align: center;
+}
+.font-bold{
+    font-weight: 900;
+}
